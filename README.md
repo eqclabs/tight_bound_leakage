@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](./LICENSE)
 # tight_bound_leakage
 a script for calculation of the leakage term in (finite-size) QKD for one-way Error Corection: extension of theory in [1] to the non-bianary LDPC codes.
 
