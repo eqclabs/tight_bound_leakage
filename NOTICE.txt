@@ -1,0 +1,7 @@
+This product includes software developed by
+Panagiotis Papanastasiou, Carlo Ottaviani, and Marco Lucamarini
+at the Experimental Quantum Communications Lab, University of York,
+under the CHEDDAR project (EPSRC and DSIT TMF-uplift).
+
+This software is licensed under the Apache License, Version 2.0.
+See the LICENSE file for more information.
